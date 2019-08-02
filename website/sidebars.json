@@ -1,0 +1,14 @@
+{ 
+  "docs": {
+    "Setup/Installation": ["doc1","doc2","Usage"],
+    "Configuration": ["doc6"],
+    "Database": ["doc10","doc7"],
+    "Functionality": ["doc8","f2"],
+    "Common Issues encountered/How to Diagnose": ["doc44"],
+    "How to change/add API": ["doc9"]
+  },
+
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
