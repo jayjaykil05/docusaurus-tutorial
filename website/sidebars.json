@@ -3,7 +3,7 @@
     "Setup/Installation": ["doc1","doc2","Usage"],
     "Configuration": ["doc6"],
     "Database": ["doc10","doc7"],
-    "Functionality": ["doc8","f2"],
+    "Functionality" : ["doc8","f2","f3","f4","frate1","frate2","frate3","ftime1"],
     "Common Issues encountered/How to Diagnose": ["doc44"],
     "How to change/add API": ["doc9"]
   },
